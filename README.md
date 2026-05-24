@@ -61,5 +61,3 @@ An audio fingerprinting application that identifies a song from a short clip by 
 3. Press **Scan** to fingerprint the input and match it against the database.
 4. View the ranked results, each with a matching percentage, in the table.
 
-## License
-[Add your license here]
