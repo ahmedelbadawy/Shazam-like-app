@@ -1,0 +1,7 @@
+PyQt5
+librosa
+pydub
+scipy
+numpy
+imagehash
+Pillow
